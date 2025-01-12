@@ -22,7 +22,7 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 clock = pygame.time.Clock()
 
 
-
+# Комментарий
 
 
 player = Sprite(0, 300, 100, 100, r"assets\img\player.png")
